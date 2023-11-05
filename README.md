@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently Working on  [SimpuGo](https://play.google.com/store/apps/details?id=co.simpu.inbox)
 - 📫 How to reach me **tdammy92@gmail.com**
+- 🧰 Take a pick at my [portfolio](https://tdammy.com.ng/)
 
 <h3 align="left">Connect with me:</h3>
 
