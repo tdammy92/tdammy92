@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/TDamilola" target="blank">
+<a href="https://twitter.com/TDamilola" target="blank" rel="noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay113am" height="30" width="40" />
 </a>
   
-<a href="www.linkedin.com/in/taiwo-damilola-56061a91" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay k" height="30" width="40" />
+<a href="https://www.linkedin.com/in/taiwo-damilola-56061a91/" target="blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay k" height="30" width="40" />
 </a>
 </p>
 
@@ -83,6 +83,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/> 
+</a> 
+
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="electron" width="50" height="50"/> 
 </a> 
 
 </p>
