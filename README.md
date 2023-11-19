@@ -55,6 +55,12 @@ Here are some ideas to get you started:
   </a>
 
 
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tdammy92/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50"/>
+  </a>
+
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a>
