@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Taiwo Damilola</h1>
-<h3 align="center">Lead Mobile Engineer @ [Luupli](https://luupli.com/) London,UK</h3>
+<h3 align="center">Lead Mobile Engineer  <a  href="https://luupli.com/" target="blank" rel="noreferrer">@Luupli</a>  London,UK</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdammy92&label=Profile%20views&color=0e75b6&style=flat" alt="tdamm92" /> </p>
