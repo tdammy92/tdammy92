@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Taiwo Damilola</h1>
-<h3 align="center">A passionate Mobile/Web App developer from Lagos,Nigeria</h3>
+<h3 align="center">Lead Mobile Engineer @ [Luupli](https://luupli.com/) London,UK</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdammy92&label=Profile%20views&color=0e75b6&style=flat" alt="tdamm92" /> </p>
 
-- 🔭 Currently Working on  [SimpuGo](https://play.google.com/store/apps/details?id=co.simpu.inbox)
+- 🔭 Currently Working on  [Luupli](https://luupli.com/) &  [SimpuGo](https://play.google.com/store/apps/details?id=co.simpu.inbox) 
 - 📫 How to reach me **tdammy92@gmail.com**
 - 🧰 Take a pick at my [portfolio](https://tdammy.com.ng/)
 
