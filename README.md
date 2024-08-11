@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="typescript" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/07e36b4aa0691f3015886624395e083395e528c5/svg/t/tailwind-css-2.svg" alt="tailwind" width="50" height="50"/> 
   </a> 
 
 
