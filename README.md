@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdammy92&label=Profile%20views&color=0e75b6&style=flat" alt="tdamm92" /> </p>
 
-- 🔭 Currently Working on  [Luupli](https://luupli.com/) &  [SimpuGo](https://play.google.com/store/apps/details?id=co.simpu.inbox) 
+<!-- 🔭 Currently Working on  [Luupli](https://luupli.com/) &  [SimpuGo](https://play.google.com/store/apps/details?id=co.simpu.inbox) -->
 - 📫 How to reach me **tdammy92@gmail.com**
 - 🧰 Take a pick at my [portfolio](https://tdammy.com.ng/)
 
