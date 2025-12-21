@@ -59,6 +59,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/tdammy92/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50"/>
   </a>
 
+ <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tdammy92/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="50" height="50"/>
+  </a>
+
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
