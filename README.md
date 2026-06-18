@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay113am" height="30" width="40" />
 </a>
   
-<a href="https://www.linkedin.com/in/taiwo-damilola-56061a91/" target="blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/damilola-taiwo-56061a91/" target="blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay k" height="30" width="40" />
 </a>
 </p>
